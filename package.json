@@ -1,0 +1,18 @@
+{
+  "name": "nodeapilimits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^3.9.2",
+    "newman": "^5.2.2",
+    "node-fetch": "^2.6.1"
+  }
+}
